@@ -8,6 +8,8 @@
 
 - *마크다운 문법*을 활용해서 원하는 내용을 입력합니다.
 
+- [자바스크립트 알고리즘 kr](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
+
 ---
 
 ### 2
